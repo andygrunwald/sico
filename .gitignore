@@ -16,3 +16,6 @@
 
 # Application
 sico
+
+# goreleaser
+dist/
